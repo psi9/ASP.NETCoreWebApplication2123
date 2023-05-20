@@ -1,0 +1,12 @@
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\bin\Debug\net6.0\ZalupaCore.deps.json
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\bin\Debug\net6.0\ZalupaCore.dll
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\bin\Debug\net6.0\ZalupaCore.pdb
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\obj\Debug\net6.0\ZalupaCore.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\obj\Debug\net6.0\ZalupaCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\obj\Debug\net6.0\ZalupaCore.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\obj\Debug\net6.0\ZalupaCore.AssemblyInfo.cs
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\obj\Debug\net6.0\ZalupaCore.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\obj\Debug\net6.0\ZalupaCore.dll
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\obj\Debug\net6.0\refint\ZalupaCore.dll
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\obj\Debug\net6.0\ZalupaCore.pdb
+C:\Users\user\RiderProjects\ASP.NETCoreWebApplication2123\ZalupaCore\obj\Debug\net6.0\ref\ZalupaCore.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NETCoreWebApplication2123", "ASP.NETCoreWebApplication2123\ASP.NETCoreWebApplication2123.csproj", "{67690A46-FDB8-4C2B-9918-BFDDF93F3D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZalupaCore", "ZalupaCore\ZalupaCore.csproj", "{44F433F2-0111-4882-AEE7-C394FA640AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67690A46-FDB8-4C2B-9918-BFDDF93F3D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67690A46-FDB8-4C2B-9918-BFDDF93F3D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67690A46-FDB8-4C2B-9918-BFDDF93F3D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67690A46-FDB8-4C2B-9918-BFDDF93F3D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F433F2-0111-4882-AEE7-C394FA640AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F433F2-0111-4882-AEE7-C394FA640AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F433F2-0111-4882-AEE7-C394FA640AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F433F2-0111-4882-AEE7-C394FA640AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
